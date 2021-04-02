@@ -1,5 +1,10 @@
 # 3d-audio-hrtf
-Añadimos procesamiento de audio 3D a un motor de videojuegos
+
+Prueba de concepto: Usamos filtros HRTF para sintetizar audio 3D binaural. De esta manera podemos escuchar los sonidos en una localización específica.
+
+Es posible integrarlo a cualquier sistema de sonido que use xAudio2 y xAPOs.
+
+Se puede probar en el programa de ejemplo el funcionamiento de este sintetizador.
 
 ## Funcionamiento
 
